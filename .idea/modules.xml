@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Servelet.iml" filepath="$PROJECT_DIR$/.idea/Servelet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/assignment/assignment.iml" filepath="$PROJECT_DIR$/servlet/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/class/class.iml" filepath="$PROJECT_DIR$/servlet/class/class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/laptop/laptop.iml" filepath="$PROJECT_DIR$/servlet/laptop/laptop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/lecture/lecture.iml" filepath="$PROJECT_DIR$/servlet/lecture/lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/phone/phone.iml" filepath="$PROJECT_DIR$/servlet/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+    </modules>
+  </component>
+</project>
